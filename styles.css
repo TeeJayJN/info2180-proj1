@@ -53,6 +53,11 @@ article {
     padding: 15px;
 }
 
+img {
+    max-width: 250px;
+    max-height: 250px;
+}
+
 .container {
     margin: 0 auto;
     padding: 20px;
